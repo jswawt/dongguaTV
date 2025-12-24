@@ -3,7 +3,7 @@
     "appName": "E视界",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "https://dgtv.067890.xyz:1024/",
         "cleartext": true
     },
     "plugins": {
@@ -13,4 +13,5 @@
             "backgroundColor": "#000000"
         }
     }
+
 }
